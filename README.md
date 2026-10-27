@@ -2,6 +2,8 @@
 
 **Connect privately. Share freely. Stay in the moment.**
 
+**T & C** https://sites.google.com/view/nocturne-tc/home
+
 Nocturne is a social media platform built for connecting with friends, discovering short-form videos, chatting privately, and creating communities. From encrypted conversations to endless reels, Nocturne brings your social world together in one place.
 
 🔗 **Live Website:** https://3123-code.github.io/nocturne-social/
